@@ -130,8 +130,8 @@ https://drive.google.com/open?id=1wr19cnc00EJqd6Ba81z6UrymJJpzUVkw&usp=drive_cop
 https://drive.google.com/open?id=1erTY8qGvhQTzaW6RlCPwTugGrlhAba4X&usp=drive_copy
 
 <div align="center">
-<img src="https://drive.google.com/drive/u/0/my-drive" alt="Community Service Photo 1" width="30%">
-<img src="https://drive.google.com/drive/u/0/my-drive" alt="Community Service Photo 2" width="30%">
+<img src="https://github.com/Jith0x/AI-Powered-IDS/blob/main/assests/1.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/Jith0x/AI-Powered-IDS/blob/main/assests/2.jpeg" alt="Community Service Photo 2" width="30%">
 <img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
 </div>
 
