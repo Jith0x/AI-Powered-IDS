@@ -84,7 +84,7 @@ The project gave me practical exposure to applying Artificial Intelligence and M
   It focused on understanding requirements, creating structured code, and implementing key features.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/Jith0x/AI-Powered-IDS/blob/main/SURE%20Trust%20project%20document%20(1).docx" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 The project focuses on developing an AI-based Intrusion Detection System capable of detecting and classifying malicious network traffic in Industrial IoT environments.
 
